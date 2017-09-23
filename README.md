@@ -1,0 +1,1 @@
+用来修改ELF文件的.got.plt Section的内容的，从而将.got.plt中的内容加密
